@@ -1,4 +1,4 @@
-// edX Home PageMicrosoft: DEV210x
+// Microsoft: DEV210x Introduction to C++ (edX)
 //   Introduction to C++
 //   Complex Types Peer Review
 
@@ -15,5 +15,5 @@ int main() {
     for(int i = 0; i < arrayLength; i++) {
         cout << myArray[i];
     }
-    
+
 }
