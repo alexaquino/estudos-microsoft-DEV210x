@@ -1,6 +1,6 @@
 // Microsoft: DEV210x Introduction to C++ (edX)
-//   Introduction to C++
-//   Data Types Peer Review
+//   Module 2 Data Types in C++
+//     Data Types Peer Review
 
 Internationalization:
 - First Name: wchar_t

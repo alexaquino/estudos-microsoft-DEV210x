@@ -1,6 +1,6 @@
 // Microsoft: DEV210x Introduction to C++ (edX)
-//   Introduction to C++
-//   Complex Types Peer Review
+//   Module 2 Data Types in C++
+//     Complex Types Peer Review
 
 #include <iostream>
 using namespace std;
